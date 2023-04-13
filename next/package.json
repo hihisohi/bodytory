@@ -8,7 +8,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "erd": "prisma generate"
+    "erd": "prisma generate",
+    "vercel-deploy": "next build && next export"
   },
   "dependencies": {
     "@prisma/client": "^4.7.0",
