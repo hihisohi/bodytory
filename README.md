@@ -39,15 +39,17 @@
 
 ## 기술 스택
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white"/>
-<img src="https://img.shields.io/badge/Recoil-black?style=for-the-badge&logo=Recoil&logoColor=white"/>
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white"/>
-<img src="https://img.shields.io/badge/Styled Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-<img src="https://img.shields.io/badge/Planet Scale-000000?style=for-the-badge&logo=PlanetScale&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-555555?style=for-the-badge&logo=Flask&logoColor=white"/>
+<div>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Recoil-black?style=for-the-badge&logo=Recoil&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Styled Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Planet Scale-000000?style=for-the-badge&logo=PlanetScale&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-555555?style=for-the-badge&logo=Flask&logoColor=white"/>
+</div>
 
 <br/>
 <br/>
@@ -112,33 +114,54 @@ npm run dev
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/chspower1"><img src="./next/public/static/readme/team/hosung.gif" width="100px;" alt="호성"/><br /><sub><b>조호성</b></sub></a><br />
-    <img src="https://img.shields.io/badge/FrontEnd-386ED7?style=flat-square&logoColor=white"/>
-    <img src="https://img.shields.io/badge/BackEnd-EA5E5E?style=flat-square&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Motion-4698A4?style=flat-square&logoColor=white"/>
+    <td align="center">
+      <a href="https://github.com/chspower1"><b>조호성</b></a>
     </td>
-    <td align="center"><a href="https://github.com/hihisohi"><img src="./next/public/static/readme/team/sohi.gif" width="100px;" alt="소희"/><br /><sub><b>정소희</b></sub></a><br />
-    <img src="https://img.shields.io/badge/FrontEnd-386ED7?style=flat-square&logoColor=white"/>
-    <img src="https://img.shields.io/badge/AI-63BA71?style=flat-square&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PM-BE78BF?style=flat-square&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Design-FFEB56?style=flat-square&logoColor=white"/>
+    <td>
+      <img src="https://img.shields.io/badge/FrontEnd-386ED7?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/BackEnd-EA5E5E?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Motion-4698A4?style=flat-square&logoColor=white"/>
     </td>
-    <td align="center"><a href="https://github.com/KimKW1007"><img src="./next/public/static/readme/team/won.gif" width="100px;" alt="경원"/><br /><sub><b>김경원</b></sub></a><br />
-    <img src="https://img.shields.io/badge/FrontEnd-386ED7?style=flat-square&logoColor=white"/>
-    <img src="https://img.shields.io/badge/BackEnd-EA5E5E?style=flat-square&logoColor=white"/>
-    </td>
-    <td align="center"><a href="https://github.com/Ryong-E"><img src="./next/public/static/readme/team/ryong.gif" width="100px;" alt="호성"/><br /><sub><b>한동룡</b></sub></a><br />
-    <img src="https://img.shields.io/badge/FrontEnd-386ED7?style=flat-square&logoColor=white"/>
-    <img src="https://img.shields.io/badge/BackEnd-EA5E5E?style=flat-square&logoColor=white"/>
-    </td>
-    <td align="center"><a href="https://github.com/Peelsob4d"><img src="./next/public/static/readme/team/hyun.gif" width="100px;" alt="호성"/><br /><sub><b>오다현</b></sub></a><br />
-    <img src="https://img.shields.io/badge/FrontEnd-386ED7?style=flat-square&logoColor=white"/>
-    <img src="https://img.shields.io/badge/AI-63BA71?style=flat-square&logoColor=white"/>
-    <img src="https://img.shields.io/badge/DevOps-B0A85A?style=flat-square&logoColor=white"/>
-    </td>
-   
   </tr>
-  
+  <tr>
+    <td align="center">
+      <a href="https://github.com/hihisohi"><b>정소희</b></a>
+    </td>
+     <td>
+      <img src="https://img.shields.io/badge/FrontEnd-386ED7?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AI-63BA71?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PM-BE78BF?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Design-FFEB56?style=flat-square&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/KimKW1007"><b>김경원</b></a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/FrontEnd-386ED7?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/BackEnd-EA5E5E?style=flat-square&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Ryong-E"><b>한동룡</b></a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/FrontEnd-386ED7?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/BackEnd-EA5E5E?style=flat-square&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>    
+    <td align="center">
+      <a href="https://github.com/Peelsob4d"><b>오다현</b></a>
+    </td>
+    <td>   
+      <img src="https://img.shields.io/badge/FrontEnd-386ED7?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AI-63BA71?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/DevOps-B0A85A?style=flat-square&logoColor=white"/>
+    </td>
+  </tr>
 </table>
 
 <br/>
