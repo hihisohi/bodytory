@@ -32,7 +32,7 @@
 <br/>
 
 :point_down: **바디토리에 대한 자세한 프로젝트 내용이 궁금하다면 아래 Notion을 방문해보세요!**  
-<a href="https://hihisohi.notion.site/4aaf7c53540840629e163d1c99930ff8">바디토리 자세히 알아보기</a>
+<a href="https://hihisohi.notion.site/ae3227136623441e94dc33b713bced5c">바디토리 자세히 알아보기</a>
 
 <br/>
 <br/>
